@@ -72,3 +72,5 @@ kubeless-controller-manager-99459cb67-4rt4q   3/3     Running   0          5m17s
 
 Source:
 * https://github.com/kubernetes/minikube/issues/1674
+
+{% include utterances.html %}
