@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is my personal weblog which I write about the things I find interesting.
+I try to summarize articles I read for my future reference :)) 
 
