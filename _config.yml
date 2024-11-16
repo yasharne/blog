@@ -21,16 +21,20 @@
 title: Yasharne | blog
 email: nesabian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal weblog which I write about the things I find interesting.
+  I write about the things I find interesting.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://yasharne.ir" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yasharne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: yasharne
 github_username:  yasharne
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+google_analytics: G-RLEM6MVZM2
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
