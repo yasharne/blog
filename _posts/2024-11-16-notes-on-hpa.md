@@ -7,18 +7,25 @@ Horizontal pod autoscaler is used for handling peak-time loads and release the r
 
 # The Algorithm
 `desiredReplicas = ceil[currentReplicas * ( currentMetricValue / desiredMetricValue )]`
+
 when using average for the metric, kubernetes will use the average of all pods in the `scaleTargetRef`.
 
 ## Example 1
 `currentMetricValue`= `200m`
+
 `desiredMetricValue`= `100m`
+
 `currentReplicas`= `2`
+
 `desiredReplicas`= `ceil[2* (200m/100m)]`= `4`
 
 ## Example 2
 `currentMetricValue`= `500m`
+
 `desiredMetricValue`= `100m`
+
 `currentReplicas`= `2`
+
 `desiredReplicas`= `ceil[2* (50m/100m)]`= `1`
 
 # Default behaviour
