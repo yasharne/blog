@@ -9,11 +9,6 @@ A living list of books I have read, podcasts I have listened to, and articles I 
 ## Books
 
 
-- **Designing Data-Intensive Applications**  
-  Author: Martin Kleppmann  
-  Status: Read  
-  Language: English  
-  Notes: A practical reference for distributed systems, storage, and data architecture.
 
 <div class="fa" dir="rtl" lang="fa" markdown="1">
 
@@ -29,17 +24,12 @@ A living list of books I have read, podcasts I have listened to, and articles I 
 ## Podcasts
 
 
-- **Podcast name**  
-  Status: Listening  
-  Language: English  
-  Notes: Why this podcast is worth keeping here.
-
 <div class="fa" dir="rtl" lang="fa" markdown="1">
 
-- **نام پادکست**  
+- [لیبرالیسم](https://t.me/tarikhandishi/2153)  
   وضعیت: گوش‌داده‌شده  
   زبان: فارسی  
-  یادداشت: نکته‌ای که از این قسمت یا پادکست یاد گرفتم.
+  گوینده: مهدی تدینی
 
 </div>
 
