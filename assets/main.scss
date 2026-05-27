@@ -7,8 +7,15 @@
 [dir="rtl"] {
   direction: rtl;
   text-align: right;
+  unicode-bidi: isolate;
 }
 
 .fa {
   font-family: Tahoma, Arial, sans-serif;
+}
+
+.fa ul,
+[dir="rtl"] ul {
+  margin-left: 0;
+  margin-right: 30px;
 }

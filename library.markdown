@@ -15,7 +15,7 @@ A living list of books I have read, podcasts I have listened to, and articles I 
   Language: English  
   Notes: A practical reference for distributed systems, storage, and data architecture.
 
-<div class="fa" markdown="1">
+<div class="fa" dir="rtl" lang="fa" markdown="1">
 
 - **ناسیونالیسم**  
   نویسنده: جورج ارول  
@@ -34,7 +34,7 @@ A living list of books I have read, podcasts I have listened to, and articles I 
   Language: English  
   Notes: Why this podcast is worth keeping here.
 
-<div class="fa" markdown="1">
+<div class="fa" dir="rtl" lang="fa" markdown="1">
 
 - **نام پادکست**  
   وضعیت: گوش‌داده‌شده  
@@ -51,7 +51,7 @@ A living list of books I have read, podcasts I have listened to, and articles I 
   Language: English  
   Notes: The core idea I want to remember.
 
-<div class="fa" markdown="1">
+<div class="fa" dir="rtl" lang="fa" markdown="1">
 
 - [عنوان مقاله](https://example.com)  
   منبع: نمونه  
