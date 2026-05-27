@@ -22,8 +22,8 @@ title: Yasharne | blog
 email: nesabian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write about the things I find interesting.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://yasharne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.yasharne.me" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: yasharne
 github_username:  yasharne
 
