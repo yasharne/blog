@@ -29,7 +29,8 @@ A living list of books I have read, podcasts I have listened to, and articles I 
 - [لیبرالیسم](https://t.me/tarikhandishi/2153)  
   وضعیت: گوش‌داده‌شده  
   زبان: فارسی  
-  گوینده: مهدی تدینی
+  گوینده: مهدی تدینی  
+  یادداشت: برای شروع آشنایی با لیبرالیسم مناسبه، کلمات عجیب غریب داخلش نیست و متن روونی داره
 
 </div>
 
