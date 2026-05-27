@@ -46,16 +46,10 @@ A living list of books I have read, podcasts I have listened to, and articles I 
 ## Articles
 
 
-- [Article title](https://example.com)  
-  Source: Example  
-  Language: English  
-  Notes: The core idea I want to remember.
-
 <div class="fa" dir="rtl" lang="fa" markdown="1">
 
-- [عنوان مقاله](https://example.com)  
-  منبع: نمونه  
+- [نظریه ازادی، ایران و دین](https://t.me/jannatkhah/1894)  
+  نویسنده: محمدعلی جنت خواه    
   زبان: فارسی  
-  یادداشت: دلیل اینکه این مقاله را نگه می‌دارم.
 
 </div>
