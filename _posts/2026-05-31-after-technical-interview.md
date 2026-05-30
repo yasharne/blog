@@ -2,6 +2,7 @@
 layout: post
 title: "What I Look For After the Technical Interview: An Engineering Manager's Perspective"
 date: 2026-05-31
+permalink: /after-technical-interview.html
 description: "An SRE Engineering Manager explains how he evaluates candidates beyond technical skills, focusing on ownership, systems thinking, automation, reliability, and collaboration."
 categories: [management, sre, leadership]
 tags:
