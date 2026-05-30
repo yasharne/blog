@@ -31,6 +31,7 @@ github_username:  yasharne
 header_pages:
   - about.markdown
   - library.markdown
+  - music.markdown
 
 # Build settings
 theme: minima
