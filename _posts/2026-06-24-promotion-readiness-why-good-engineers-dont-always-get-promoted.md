@@ -17,15 +17,23 @@ tags:
   - career development
 ---
 
+*A promotion should recognize readiness, not create it.*
+
 ![Promotion readiness]({{ site.baseurl }}/assets/image/promotion.png)
+
+*Promotions should recognize demonstrated readiness, not future potential.*
 
 They were one of the most reliable engineers on the team.
 
-They cared about the quality of their work. They were respected by their peers. When they picked up a task, I trusted that it would be done carefully. They did not create unnecessary drama, they did not disappear when things became difficult, and they consistently delivered good engineering work.
+They cared about the quality of their work. They were respected by their peers. When they picked up a task, I trusted that it would be done carefully.
+
+They did not create unnecessary drama. They did not disappear when things became difficult. They consistently delivered good engineering work.
 
 Then one day, in a one-on-one, they told me they were considering opportunities elsewhere.
 
-Their reason was not surprising. They felt their career progression had stalled. They believed they had been operating at a high level for a long time. They wanted to know what else they needed to do to be promoted.
+Their reason was not surprising.
+
+They felt their career progression had stalled. They believed they had been operating at a high level for a long time. They wanted to know what else they needed to do to be promoted.
 
 I understood their frustration.
 
@@ -37,13 +45,28 @@ But this situation also reveals an important question in engineering promotion c
 
 Why do good engineers sometimes not get promoted?
 
-The answer is rarely that they are not working hard enough. Often, they are. It is rarely that they are not valuable. Often, they are very valuable. The real issue is that good performance in a current role is not always the same as promotion readiness for the next one.
+The answer is rarely that they are not working hard enough. Often, they are. It is rarely that they are not valuable. Often, they are very valuable.
+
+The real issue is that good performance in a current role is not always the same as promotion readiness for the next one.
+
+## TL;DR
+
+- Promotion is not a reward for effort, loyalty, or tenure.
+- Promotion should recognize current behavior at the next level.
+- Technical excellence alone is insufficient for seniority.
+- Organizational impact matters more than individual output.
+- "Not yet" is often more useful than "no" when it is specific and actionable.
+- Every promotion teaches the organization what success looks like.
 
 ## Good Performance Is Not Promotion Readiness
 
+### Promotion Is Not Just Appreciation
+
 Many engineers understandably think about promotion as a reward.
 
-They have worked hard. They have stayed with the team. They have delivered projects. They have helped during incidents. They have built trust. From their perspective, an engineering promotion can feel like the natural recognition of that effort.
+They have worked hard. They have stayed with the team. They have delivered projects. They have helped during incidents. They have built trust.
+
+From their perspective, an engineering promotion can feel like the natural recognition of that effort.
 
 I understand that view. Managers sometimes reinforce it without meaning to. We talk about appreciation, retention, compensation, motivation, and career growth in the same conversations. It becomes easy to mix them together.
 
@@ -51,15 +74,50 @@ But a promotion is not only a thank-you.
 
 A promotion changes expectations.
 
-At the next level, the organization is not simply asking for more of the same work. It is asking for a different shape of contribution. A strong mid-level engineer may deliver assigned work with quality and consistency. A senior engineer is often expected to create clarity when the work is ambiguous, identify risks before they become problems, drive outcomes across boundaries, and help others make better decisions.
+At the next level, the organization is not simply asking for more of the same work. It is asking for a different shape of contribution.
+
+A strong mid-level engineer may deliver assigned work with quality and consistency. A senior engineer is often expected to create clarity when the work is ambiguous, identify risks before they become problems, drive outcomes across boundaries, and help others make better decisions.
 
 Those are related skills, but they are not identical.
 
-The difference often shows up in ownership. Does the engineer wait for work to be fully defined, or do they help define it? Do they notice when a project is drifting and bring it back on track? Do they follow through after the code is merged, or do they assume their part is finished? Do they understand the organizational impact of the work, or only the technical task in front of them?
+### What Readiness Looks Like
+
+The difference often shows up in ownership.
+
+Does the engineer wait for work to be fully defined, or do they help define it? Do they notice when a project is drifting and bring it back on track? Do they follow through after the code is merged, or do they assume their part is finished?
+
+Do they understand the organizational impact of the work, or only the technical task in front of them?
+
+> **Promotion Readiness Signals**
+>
+> - Ownership
+> - Follow-through
+> - Collaboration
+> - Team impact
+> - Organizational impact
 
 Promotion criteria should make these expectations explicit. If they do not, people are left to guess. And when people guess, they often optimize for visible effort rather than demonstrated readiness.
 
 That is where disappointment begins.
+
+## A Simple Readiness Model
+
+Promotion readiness is not one behavior. It is a pattern that grows from technical competence into broader impact.
+
+```mermaid
+flowchart TD
+    A[Technical Competence]
+    B[Ownership]
+    C[Collaboration]
+    D[Team Impact]
+    E[Organizational Impact]
+    F[Promotion Readiness]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+```
 
 ## Promotion Should Recognize Readiness, Not Create It
 
@@ -67,23 +125,33 @@ Over time, I have become increasingly convinced of one principle:
 
 Promotions should recognize readiness, not create it.
 
-Some organizations use promotion as a bet. The thinking sounds reasonable at first: this person is talented, they are close, they need the title to grow, so let's promote them and they will rise into the role.
+Some organizations use promotion as a bet.
+
+The thinking sounds reasonable at first: this person is talented, they are close, they need the title to grow, so let's promote them and they will rise into the role.
 
 Sometimes that works. More often than people admit, it creates avoidable problems.
 
-The newly promoted person now carries expectations they may not fully understand or consistently meet. The manager has less room to coach privately because the role has already changed publicly. The rest of the team receives a mixed signal about what the promotion criteria actually mean. People begin to wonder whether titles reflect demonstrated behavior, manager preference, retention pressure, or timing.
+The newly promoted person now carries expectations they may not fully understand or consistently meet. The manager has less room to coach privately because the role has already changed publicly.
+
+The rest of the team receives a mixed signal about what the promotion criteria actually mean. People begin to wonder whether titles reflect demonstrated behavior, manager preference, retention pressure, or timing.
 
 That ambiguity damages trust.
 
-A promotion should not be a bet that someone will meet the expectations tomorrow. It should be recognition that they are already meeting them today.
+> A promotion should not be a bet that someone will meet the expectations tomorrow. It should be recognition that they are already meeting them today.
 
-This does not mean someone must be perfect before being promoted. No one is. Every level includes growth. A newly promoted senior engineer will still have gaps. A new staff engineer will still make mistakes. A new manager will still need support.
+This does not mean someone must be perfect before being promoted. No one is. Every level includes growth.
+
+A newly promoted senior engineer will still have gaps. A new staff engineer will still make mistakes. A new manager will still need support.
 
 The question is whether the important behaviors are already visible often enough that the organization can reasonably say: this is not a hope, this is a pattern.
 
 When growth is visible before promotion, the title feels like recognition. When growth is expected only after promotion, the title becomes pressure.
 
+> Promotions are not awarded for potential. They are awarded for demonstrated readiness.
+
 ## Individual Contribution Is Not Organizational Impact
+
+### The Question Changes With Seniority
 
 One pattern I have seen many times is an engineer who is very focused on their own output.
 
@@ -91,11 +159,19 @@ They complete their tickets. They solve hard technical problems. They write good
 
 But as engineers grow, the question changes from "How much work do you personally finish?" to "What changes because you are here?"
 
-Completing tasks is useful. Driving outcomes is more valuable. Solving a technical problem is useful. Reducing organizational risk is more valuable. Shipping a feature is useful. Creating a lasting improvement in how the team builds, operates, or reasons about the system is more valuable.
+Completing tasks is useful. Driving outcomes is more valuable.
+
+Solving a technical problem is useful. Reducing organizational risk is more valuable.
+
+Shipping a feature is useful. Creating a lasting improvement in how the team builds, operates, or reasons about the system is more valuable.
 
 This is where promotion readiness often becomes uncomfortable. The engineer may be doing everything asked of them, but the next level may require them to influence work beyond their assigned tasks.
 
-Maybe they notice that multiple teams are solving the same problem differently and create alignment. Maybe they improve a process that repeatedly causes incidents. Maybe they help leadership make a better trade-off. Maybe they mentor another engineer in a way that improves the whole team's execution.
+### From Output To Leverage
+
+Maybe they notice that multiple teams are solving the same problem differently and create alignment.
+
+Maybe they improve a process that repeatedly causes incidents. Maybe they help leadership make a better trade-off. Maybe they mentor another engineer in a way that improves the whole team's execution.
 
 None of those examples are about effort alone.
 
@@ -105,7 +181,17 @@ Titles are earned through demonstrated impact, not effort alone. That can be har
 
 Career growth requires making the contribution larger, not just making the calendar fuller.
 
+| Focus | Individual Contributor Mindset | Promotion-Ready Mindset |
+| --- | --- | --- |
+| Success | Completing tasks | Driving outcomes |
+| Ownership | Assigned work | End-to-end responsibility |
+| Collaboration | Personal effectiveness | Team effectiveness |
+| Feedback | Defends ideas | Improves ideas |
+| Impact | Individual output | Organizational impact |
+
 ## Being Right Is Not Enough
+
+### Technical Strength Can Still Limit Impact
 
 Another difficult pattern involves technically strong engineers who are often right, but hard to move forward with.
 
@@ -115,19 +201,33 @@ But they may also overengineer solutions, resist feedback, ignore team decisions
 
 This creates a different kind of promotion readiness gap.
 
-Engineering is a team sport. The goal is not to build the most elegant solution in isolation. The goal is to help the team move forward.
+Engineering is a team sport.
+
+> The goal is not to build the most elegant solution in isolation. The goal is to help the team move forward.
 
 At more senior levels, technical excellence still matters. But technical excellence that cannot create alignment has limited organizational value.
 
-A senior engineer needs to know when to push and when to listen. They need to disagree clearly without turning every disagreement into a battle. They need to accept feedback without treating it as a personal threat. They need to understand that a decision can be imperfect and still be the right decision for the moment.
+A senior engineer needs to know when to push and when to listen. They need to disagree clearly without turning every disagreement into a battle.
+
+They need to accept feedback without treating it as a personal threat. They need to understand that a decision can be imperfect and still be the right decision for the moment.
 
 This is not about being passive.
 
 Strong engineers should challenge weak plans, raise risks, protect quality, and bring technical judgment into the room.
 
-But leadership is not measured only by the strength of someone's argument. It is also measured by what happens after the argument. Does the team become clearer? Does trust increase? Does the work move forward? Do people feel safer bringing problems earlier next time?
+But leadership is not measured only by the strength of someone's argument. It is also measured by what happens after the argument.
+
+Does the team become clearer? Does trust increase? Does the work move forward? Do people feel safer bringing problems earlier next time?
 
 If the answer is no, then being right is not enough.
+
+> **Warning Signs**
+>
+> - Consistently missing context
+> - Lack of alignment with team decisions
+> - Slow execution
+> - Resistance to feedback
+> - Overengineering
 
 ## Promotions Shape Culture
 
@@ -137,9 +237,17 @@ Every promotion sends a signal.
 
 It tells people what the company values. It tells them what kinds of behavior are noticed, protected, and rewarded. It tells them whether the written promotion criteria matter, or whether the real criteria live somewhere else.
 
-If someone is promoted mainly because they are loud, others learn to be louder. If someone is promoted despite poor collaboration, others learn that collaboration is optional. If someone is promoted because they threatened to leave, others learn that pressure works better than demonstrated impact. If someone is promoted for heroics while quiet system improvement is ignored, the organization will get more heroics and less prevention.
+If someone is promoted mainly because they are loud, others learn to be louder.
 
-Culture is not what leaders write in company values. Culture is what people observe getting rewarded.
+If someone is promoted despite poor collaboration, others learn that collaboration is optional.
+
+If someone is promoted because they threatened to leave, others learn that pressure works better than demonstrated impact.
+
+If someone is promoted for heroics while quiet system improvement is ignored, the organization will get more heroics and less prevention.
+
+Culture is not what leaders write in company values.
+
+> Culture is what people observe getting rewarded.
 
 That is why managers and leaders need to treat promotions with seriousness. A title is not just a line in an HR system. It becomes evidence. People compare it against their own experience and adjust their behavior accordingly.
 
@@ -151,7 +259,9 @@ Standards are not bureaucracy. Good standards protect trust.
 
 The worst promotion conversations are surprises.
 
-If an engineer believes they are ready and the manager strongly disagrees, something has usually gone wrong before the actual decision. Either the expectations were unclear, the feedback was too vague, or the manager avoided a difficult conversation for too long.
+If an engineer believes they are ready and the manager strongly disagrees, something has usually gone wrong before the actual decision.
+
+Either the expectations were unclear, the feedback was too vague, or the manager avoided a difficult conversation for too long.
 
 "Be more strategic" is not useful feedback.
 
@@ -175,6 +285,14 @@ That kind of feedback is harder to give because it requires evidence. It also gi
 
 "Not yet" should mean: I see the path, here are the gaps, here is what strong evidence would look like, and I will help you get there.
 
+## Key Takeaways
+
+- Good performance in the current role is not always promotion readiness for the next role.
+- Titles should follow demonstrated behavior, not hoped-for future growth.
+- Seniority requires collaboration, judgment, and follow-through, not only technical strength.
+- Organizational impact is the clearest signal that someone is operating beyond individual output.
+- Promotion decisions shape culture because they show everyone what gets rewarded.
+
 ## Titles Should Follow Behavior
 
 In the original conversation, I did not enjoy telling that engineer they were not ready yet.
@@ -183,7 +301,9 @@ I knew the answer might disappoint them. I knew they might still decide to leave
 
 It would have moved the discomfort into the future.
 
-Instead of a hard conversation about readiness, we would eventually have a harder conversation about expectations. Instead of helping them grow toward the next level with clarity, we would have placed them in a role where every gap had higher consequences.
+Instead of a hard conversation about readiness, we would eventually have a harder conversation about expectations.
+
+Instead of helping them grow toward the next level with clarity, we would have placed them in a role where every gap had higher consequences.
 
 Delaying a promotion can feel uncomfortable for both the manager and the engineer. But promoting someone before they are ready is often more harmful than saying "not yet" with honesty and support.
 
