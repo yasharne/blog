@@ -17,6 +17,8 @@ tags:
   - career development
 ---
 
+![Promotion readiness]({{ site.baseurl }}/assets/image/promotion.png)
+
 They were one of the most reliable engineers on the team.
 
 They cared about the quality of their work. They were respected by their peers. When they picked up a task, I trusted that it would be done carefully. They did not create unnecessary drama, they did not disappear when things became difficult, and they consistently delivered good engineering work.
