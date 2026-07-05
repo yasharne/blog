@@ -5,7 +5,7 @@ subtitle: "The winners of the AI era will not be those who blindly trust AI, but
 date: 2026-07-05
 categories: [engineering, leadership, ai]
 tags: [AI, Engineering Leadership, Productivity, Decision Making]
-image: /assets/image/ai-industrial-revolution.png
+image: /assets/images/ai-industrial-revolution.png
 ---
 
 Every major technological revolution creates three groups of people.
@@ -25,6 +25,10 @@ But the winners were not the people who randomly put machines everywhere either.
 The winners were the ones who understood the new capabilities, redesigned their workflows, and used machines where they created real leverage.
 
 AI is creating a very similar shift.
+
+![AI and Industrial Revolution - Tools Change, Mindset Wins](/assets/images/ai-industrial-revolution.png)
+
+*From steam engines to artificial intelligence: tools evolve, but mindset creates the advantage.*
 
 ---
 
@@ -157,6 +161,10 @@ Sometimes it is just a conversation between two people.
 Technology should serve the problem.
 
 The problem should not be modified to justify the technology.
+
+![AI Avoider vs Problem Solver vs AI Worshipper](/assets/images/ai-thinking-spectrum.png)
+
+*The goal is not to avoid AI or blindly follow it. The goal is better problem solving.*
 
 ---
 
