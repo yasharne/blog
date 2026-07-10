@@ -39,6 +39,8 @@ But this situation also reveals an important question in engineering promotion c
 
 Why do good engineers sometimes not get promoted?
 
+The pattern shows up most clearly when someone is aiming for a senior engineer role. They are already good at execution, but the next level asks for broader ownership, better judgment, and more team impact.
+
 The answer is rarely that they are not working hard enough.
 
 The real issue is that good performance in one role is not always enough evidence for the next one.
