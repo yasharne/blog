@@ -3,6 +3,7 @@ layout: post
 title: "AI Will Not Replace Problem Solvers: Why the Future Belongs to People Who Use AI Wisely"
 subtitle: "The winners of the AI era will not be those who blindly trust AI, but those who know when and how to use it."
 date: 2026-07-05
+permalink: /ai-is-not-replacing-problem-solvers.html
 categories: [engineering, leadership, ai]
 tags: [AI, Engineering Leadership, Productivity, Decision Making]
 image: /assets/images/ai-industrial-revolution.png
