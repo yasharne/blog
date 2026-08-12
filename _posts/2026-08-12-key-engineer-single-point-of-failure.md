@@ -161,7 +161,7 @@ There is another, less obvious consequence of allowing an engineer to become a s
 
 Eventually, their importance to the team can start working against their own career growth.
 
-![Engineer held back by critical system dependencies while looking toward new career opportunities]({{ site.baseurl }}/assets/images/key-engineer-career-trap.png)
+![Engineer held back by critical system dependencies while looking toward new career opportunities]({{ site.baseurl }}/assets/images/key-engineer-career-trap-v2.png)
 
 An engineer may reach a point where their current role no longer gives them enough room to grow.
 
