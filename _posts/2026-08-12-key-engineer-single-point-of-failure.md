@@ -2,6 +2,7 @@
 layout: post
 title: "Your Key Engineer Shouldn't Be a Single Point of Failure"
 date: 2026-08-12
+permalink: /key-engineer-single-point-of-failure.html
 description: "Engineering teams remove infrastructure single points of failure but often create them around people. See how shared ownership and succession planning build resilience."
 excerpt: "Engineering teams remove infrastructure single points of failure but often create them around people. See how shared ownership and succession planning build resilience."
 categories: [engineering, sre, leadership]
