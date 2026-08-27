@@ -12,7 +12,7 @@ A living list of albums, songs, playlists, and live performances I like.
 ## Songs
 
 - **Sorrow Of Sophia**  
-  Artist: Ali Haghighatpour  
+  Artist: DRACONIAN
   Links: [YouTube](https://www.youtube.com/watch?v=eaqVQ2gvxYE)
 
 - **Samba**  
