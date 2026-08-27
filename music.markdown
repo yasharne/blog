@@ -11,9 +11,13 @@ A living list of albums, songs, playlists, and live performances I like.
 
 ## Songs
 
+- **Sorrow Of Sophia**  
+  Artist: Ali Haghighatpour  
+  Links: [YouTube](https://www.youtube.com/watch?v=eaqVQ2gvxYE)
+
 - **Samba**  
   Artist: Ali Haghighatpour  
-  Links: [YouTube](https://www.youtube.com/watch?v=nMRGxzvpfJk)  
+  Links: [YouTube](https://www.youtube.com/watch?v=nMRGxzvpfJk)
 
 - **Gazpacho**  
   Artist: Upside Down  
