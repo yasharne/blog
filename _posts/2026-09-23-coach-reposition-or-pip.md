@@ -20,105 +20,77 @@ I was once told by a team member that I was too tolerant of low performers.
 
 That feedback was uncomfortable because there may have been some truth in it.
 
-My instinct has generally been to make expectations clear, give direct feedback, and allow someone a reasonable opportunity to improve. If they are still struggling, I want to understand whether different work or another team could help them contribute more effectively.
+My instinct has been to clarify expectations, give direct feedback, and allow time to improve. If someone still struggles, I want to understand whether different work or another team would be a better fit.
 
-I still believe in that approach. But managing underperforming engineers also requires asking a question I can too easily overlook: what is happening to everyone else while I wait?
+But managing underperforming engineers also means asking: what is happening to everyone else while I wait?
 
-There is a difference between giving someone a fair chance and avoiding a difficult decision. From the manager's chair, those two things can look surprisingly similar.
+Giving someone a fair chance and avoiding a difficult decision can look surprisingly similar from the manager's chair.
 
 ![Engineering manager considering signposted paths for coaching, repositioning an employee, and a performance improvement plan]({{ site.baseurl }}/assets/images/coaching-1.png)
 
-## Managing Underperforming Engineers Starts With Understanding the Gap
+## Managing Underperforming Engineers: Understand the Gap First
 
-A missed deadline tells me something went wrong. It does not, by itself, tell me why.
+A missed deadline tells me something went wrong. It does not tell me why.
 
-Perhaps the engineer lacks a skill. Perhaps the assignment depends on cross-team coordination they have never learned to handle. Perhaps priorities changed three times, and I am treating a planning failure as an individual one.
+Before deciding someone is a performance problem, I need to distinguish between three possibilities:
 
-Before deciding what to do about someone's performance, I need to understand what I am actually looking at.
+- **A skill or performance gap:** they are struggling with an expectation of the role, such as debugging, execution, or follow-through.
+- **A role-fit problem:** they may be strong at deep technical work but struggle with the ambiguity and coordination their role requires.
+- **A team-fit problem:** they may work well with sustained focus but struggle on a team dominated by operational interruptions.
 
-> Before deciding someone is a performance problem, figure out whether you have a performance problem, a role-fit problem, or a team-fit problem.
+These explanations can overlap. “Team fit” should describe working requirements, not whether someone shares my personality.
 
-A **skill or performance gap** means the person is not yet meeting an expectation of the role. They may need to improve debugging, execution, communication, or follow-through. The question is whether they can close that gap with clear feedback and appropriate support.
+I also need to examine my own contribution. Were expectations clear and appropriate for their level? Did they have the context, access, and realistic priorities to succeed? A planning failure should not quietly become an employee performance problem.
 
-A **role-fit problem** means the shape of the work does not match their strengths. Imagine an engineer who is effective at deep technical investigation but repeatedly struggles to drive ambiguous projects across several teams. Their technical ability is real. So is the gap between that ability and what their current role requires.
+## Coach → Reposition → PIP
 
-A **team-fit problem** can involve how work is organized. Someone who does well with sustained focus may struggle on a team dominated by operational interruptions. Someone used to independent execution may need help working in a highly collaborative environment.
+This is the sequence I generally work through. Successful coaching can end the process; a transfer only makes sense when there is a real opportunity and evidence of a better fit.
 
-These are working explanations, not permanent labels. They can overlap. And "team fit" should describe concrete working requirements, not whether someone shares my personality or agrees with me.
+### Coach With Specific Feedback
 
-I also need to check my own contribution. Did I explain the expectations? Are they appropriate for the person's level? Do they have access, context, and realistic priorities? If several people struggle with the same expectation, I should examine the environment before treating each person as a separate problem.
-
-## Coaching Should Make the Next Attempt Different
-
-"You need to show more ownership" may describe my frustration. It does very little to help someone act differently.
+“You need to show more ownership” describes my frustration without explaining what should change.
 
 More useful feedback sounds like this:
 
 > In the last three cases, I had to follow up several times before the task moved forward. For the next project, I expect you to identify blockers and follow up without waiting for me.
 
-Now we have something observable to discuss. I can ask what prevented follow-through, clarify when to escalate, and agree on what the engineer will do next time.
+Now we can discuss what prevented progress, agree on relevant support, and set a checkpoint. Someone missing system knowledge may need pairing. Someone struggling with coordination may need help identifying dependencies and escalating stalled decisions.
 
-Support should match the gap. If someone does not understand a system, pairing and documentation may help. If they struggle with coordination, another technical course probably will not. We might instead walk through how to identify dependencies, approach another team, and escalate a stalled decision.
+Feedback also produces information. Does the engineer apply it? Ask for help earlier? Carry the improvement into the next assignment?
 
-I would agree on a checkpoint tied to actual work, then review what happened. That gives the person a chance to practice and gives both of us evidence.
+As with [feedback about promotion readiness]({% post_url 2026-06-24-promotion-readiness-why-good-engineers-dont-always-get-promoted %}), expectations need to be observable. Here, the standard is the current role—not the next one.
 
-Feedback does more than correct behavior. It produces information.
+### Patience Needs Evidence of Progress
 
-Does the engineer understand the expectation? Can they apply it? Do they ask for help earlier? Does improvement carry into the next assignment, or disappear as soon as I stop reminding them?
+I do not expect perfection after one conversation. An engineer who raises blockers earlier and needs fewer reminders is making progress, even if they still miss something.
 
-I made a similar point when writing about [specific feedback in promotion conversations]({% post_url 2026-06-24-promotion-readiness-why-good-engineers-dont-always-get-promoted %}). People need observable expectations. Here, though, the standard is the current role, not readiness for the next one. I should not confuse missing a promotion bar with underperformance.
+But promises and positive conversations are not evidence of changed behavior. Improvement needs to address the actual gap: completing more tickets does not resolve poor follow-through or work that others repeatedly repair.
 
-## Patience Needs Evidence of Progress
+There is no universal timeline. The work, the gap, and the opportunities to demonstrate improvement all matter. Still, we should agree on what progress looks like and when to review it.
 
-I do not expect someone to become perfect after one conversation.
+Another extension needs a reason beyond hoping the next project will be different.
 
-An engineer learning to manage dependencies may still miss one. But if they now identify most dependencies before implementation, raise blockers earlier, and need fewer reminders, something meaningful has changed.
+### Reposition Where a Real Role Exists
 
-That trajectory matters.
+An engineer who struggles with broad project coordination might have demonstrated strong results on focused tooling work. An existing developer-tools role could be worth exploring.
 
-**Patience needs evidence of progress.** An apology, a positive conversation, or a promise to try harder is not the same as changed behavior.
-
-The evidence should relate to the original gap. If the problem is follow-through, completing more small tickets does not necessarily address it. If the problem is work quality, faster delivery may simply move more repair work onto reviewers.
-
-There is no universal number of weeks that makes patience reasonable. Learning an unfamiliar service and learning to lead a complex project require different opportunities to demonstrate progress. The seriousness of the gap and the cost to the team also matter.
-
-But the review point should be explicit. We should know what we are looking for and when we will discuss it again. Repeatedly moving that point because the next project might finally be different is a warning sign for me as a manager.
-
-## Coach → Reposition → PIP
-
-This is the sequence I generally work through:
-
-**Coach → Reposition → PIP**
-
-It is a way to organize my judgment, not a requirement to transfer everyone before taking formal action. Successful coaching can end the process. Repositioning only makes sense when there is credible evidence of a better fit.
-
-### Coach Against Clear Expectations
-
-Start with the work the person is expected to do today. Explain the gap, provide relevant support, and give them a reasonable opportunity to demonstrate improvement.
-
-The goal is sustainable performance. If the engineer succeeds only because I quietly take over the difficult parts, I have not yet learned whether the coaching is working.
-
-### Reposition Where There Is a Real Fit
-
-If the person has useful strengths that the current work rarely uses, I want to consider another assignment or a real opening elsewhere in the organization.
-
-For example, an engineer who struggles with broad project coordination might have demonstrated strong results on focused tooling work. An existing developer-tools role could be worth exploring, provided its actual expectations match that evidence. Another team is not automatically easier; it has its own demands.
-
-The question I need to ask is:
+But I need to ask:
 
 > Is there a real role this person can succeed in, or am I designing a role around everything they cannot do?
 
-There is a difference between adjusting responsibilities sensibly and leaving someone with a collection of tasks nobody needs enough to justify a role.
+Another team has its own expectations. A move needs the employee's interest and an honest conversation with the receiving manager about strengths, gaps, and what we have tried.
 
-A move also needs the employee's interest and an informed conversation with the receiving manager. I should be honest about strengths, gaps, and what we have tried. Passing an unresolved problem to someone else is not successful repositioning.
+Passing an unresolved problem to another manager is not successful repositioning. Neither is searching indefinitely for a role that does not exist.
 
-Nor should the search become an indefinite waiting room. If no realistic opportunity exists, I still have a decision to make about the current role.
+### Make the Process Formal When Necessary
 
-### Use a PIP When Informal Support Has Not Been Enough
+When clear expectations, specific feedback, relevant support, and reasonable time have not produced enough improvement on core responsibilities, a performance improvement plan (PIP) becomes appropriate.
 
-A performance improvement plan (PIP) makes the remaining gap, required outcomes, support, and review timeline formal and explicit.
+It should make the required outcomes, support, review timeline, and consequences explicit. It is a formal opportunity to improve, not a punishment for struggling.
 
-It becomes appropriate when core expectations remain unmet despite clear feedback, relevant support, and reasonable time. It should provide a genuine opportunity to improve, with an honest explanation of what happens if the required improvement does not occur.
+> If a PIP comes as a complete surprise to the employee, something probably went wrong before the PIP.
+
+The document should clarify a conversation we have already been having, not reveal concerns I kept to myself.
 
 ![Coach, reposition, or PIP framework showing feedback and support, a search for a better role, and a formal improvement process]({{ site.baseurl }}/assets/images/coaching-2.png)
 
@@ -126,67 +98,35 @@ It becomes appropriate when core expectations remain unmet despite clear feedbac
 
 ## Who Is Paying for Your Patience?
 
-Giving someone several months to improve may be reasonable. But the calendar does not tell me who is absorbing the cost.
+Giving someone several months to improve may be reasonable. But who is absorbing the cost?
 
-If I spend more time coaching, the engineer is doing the work, and progress is visible, that may be a healthy investment. Some planned pairing and review from teammates can be part of that investment too.
+If I spend more time coaching and the engineer is genuinely improving, that may be a healthy investment. Planned pairing and review can be part of it too.
 
-The equation changes when four other engineers repeatedly carry the workload.
+The equation changes when four other engineers repeatedly carry the workload: finishing incomplete changes, repairing the same mistakes, or taking harder on-call rotations because we cannot rely on this person yet.
 
-Imagine the same pattern across several delivery cycles: a teammate finishes an incomplete change, a senior engineer repairs avoidable mistakes, and someone else takes the harder on-call work because we still cannot rely on this person to handle it.
-
-Each intervention might look manageable on its own. Together, they reduce everyone else's capacity and make delivery less predictable. The senior engineer who is constantly supervising routine work cannot spend that time improving the system or helping others grow.
+Delivery becomes less predictable. Senior engineers spend their time supervising routine work. Other people's priorities and growth keep getting pushed aside.
 
 > Patience is healthy only as long as the rest of the team isn't paying the price for it.
 
-That does not mean learning must have zero cost. Teams should help people develop. The boundary is sustained, repeated compensation for the same gaps without enough progress to reduce that burden.
+Learning has a cost. The boundary is sustained compensation for the same gaps without enough progress to reduce that burden.
 
-I need to look beyond whether the project shipped. Who actually finished it? How much rescue work happened? Whose planned work disappeared? Are harder rotations repeatedly landing on the same people?
+I need to ask more than whether the project shipped. Who finished it? Whose work disappeared to make that happen? Are the same people always stepping in?
 
-As I wrote about [key-engineer dependency and shared ownership]({% post_url 2026-08-12-key-engineer-single-point-of-failure %}), a team becomes fragile when it depends on the same people to keep functioning. Repeatedly using strong engineers to cover unresolved performance gaps creates another version of that dependency.
+That also creates the [key-engineer dependency]({% post_url 2026-08-12-key-engineer-single-point-of-failure %}) I want to avoid: the team functions because a few reliable people keep rescuing it.
 
-What feels like compassion toward one employee can feel like unfairness to everyone else.
+What feels like compassion toward one employee can feel like unfairness to everyone else. High performers notice when reliability earns them more rescue work while missed expectations appear to have no consequences.
 
-High performers notice when reliability earns them more rescue work while consistently missed expectations appear to have no consequences. They do not need access to private performance conversations to experience the imbalance.
-
-I should protect that privacy while still addressing workload, setting limits on support, and taking responsibility for the decision. "Please keep helping" is not an adequate long-term answer.
+I can protect private performance conversations while still addressing that imbalance. “Please keep helping” is not a long-term answer.
 
 ## When Patience Becomes Avoidance
 
-This is where the feedback about being too tolerant becomes useful.
+This is where the feedback about being too tolerant matters most.
 
-I can explain my intentions very well. I want to be fair. I want to recognize strengths. I do not want to give up on someone too early.
+If I keep describing potential while the team keeps describing the same unfinished work, I need to pay attention. Before extending the timeline, I should be able to explain what has improved, why more time is likely to help, and how the team can sustain it.
 
-But intentions do not answer whether the arrangement is still working.
+If I cannot, my hesitation is becoming someone else's workload.
 
-If I keep describing potential while the team keeps describing the same unfinished work, I need to pay attention. If every review ends with another extension but no new evidence, I may be delaying the discomfort rather than helping the employee.
-
-Before extending the timeline, I should be able to name what has improved, what remains missing, and why more time is likely to change the outcome. I should also be able to explain how the team can sustain that time.
-
-If I cannot, continuing is a decision too. It assigns the cost of my hesitation to other people.
-
-## When a Performance Improvement Plan Becomes Appropriate
-
-For me, the case for a PIP becomes clear when expectations have been understood, feedback has been specific, support and resources have been available, and reasonable time has passed—but progress is still insufficient on the core requirements of the role.
-
-An unavailable transfer does not have to delay that decision. Neither does a small improvement automatically justify another extension if the remaining gap is substantial and the team's burden is growing.
-
-> If a PIP comes as a complete surprise to the employee, something probably went wrong before the PIP.
-
-The formal process should make an existing conversation more explicit. It should not reveal months of concerns that I kept to myself.
-
-A useful plan connects expectations to observable work, sets achievable outcomes within the person's control, explains the support available, and defines when progress will be reviewed. "Be more proactive" is no more useful in a formal document than in a one-on-one.
-
-I do not see this as punishment. I see it as the point where informal coaching has not produced sufficient improvement and continuing requires a clear, documented process. That process needs honesty about both the opportunity and the consequences.
-
-## A Fair Chance Has Boundaries
-
-I still want coaching to be my first response. I still want to recognize strengths and look for a better fit when one realistically exists.
-
-But I also need to recognize when patience has stopped helping.
-
-My responsibility includes clear expectations, honest feedback, and meaningful support. It also includes the engineers whose own work and growth suffer when I leave a performance problem unresolved.
-
-The feedback I received is a useful reminder to evaluate both sides of that responsibility. Caring about the person in front of me cannot make the rest of the team disappear from the decision.
+I still want to coach first, recognize strengths, and explore a better fit. I also have to make the difficult call when the evidence says the arrangement is no longer working.
 
 A manager's job is not to make every person succeed in every team. It is to create a fair environment where people have a real chance to succeed—and to recognize when that chance has been exhausted.
 
